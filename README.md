@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently working on Data projects
 - 💞️ I’m looking to collaborate on Kaggle competitions
-- 📫 How to reach me: Shoot me a message at kirtidhir35@gmail.com
+- 📫 How to reach me: Shoot me a message at kirti.datascientist@gmail.com
 
 <!---
 kirti1994/kirti1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
